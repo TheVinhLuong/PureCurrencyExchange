@@ -1,0 +1,3 @@
+rootProject.name = 'PureCurrencyExchange'
+
+include ':app'
